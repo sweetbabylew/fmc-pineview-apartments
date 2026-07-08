@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="533" viewBox="0 0 1050 533" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Pineview two-bedroom, two-bath floor plan (Plan A)">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="11" y="10" width="1031" height="506"/>
+<path class="w" d="M208,7 V82 M208,141 V242 M405,6 V148 M405,235 V519 M749,6 V148 M749,208 V473 M921,6 V151 M202,78 H226 M285,78 H409 M8,147 H126 M192,147 H311 M744,147 H802 M868,147 H949 M1014,147 H1046 M7,240 H108 M202,240 H324 M391,240 H406 M400,469 H428 M500,469 H662 M733,469 H833 M905,469 H1046"/>
+<path class="d" d="M585,78 H600 M610,78 H624 M630,78 H644 M808,78 H823 M383,240 H402"/>
+<path class="win" d="M1037,472 V516 M1042,472 V516 M1047,472 V516 M1035,472 H1049 M1035,516 H1049"/>
+<path class="wo" d="M11,10 H1042 V472 M1042,516 V516 H1042 M409,516 H373 M301,516 H11 V10"/>
+<text class="cl" x="95" y="95">Bath</text>
+<text class="sm" x="290" y="45">Washer/Dryer</text>
+<text class="cl" x="300" y="113">Hallway</text>
+<text class="rm" x="585" y="70">Kitchen</text>
+<text class="cl" x="835" y="70">Bath</text>
+<text class="sm" x="975" y="45">Closet</text>
+<text class="sm" x="50" y="190">Closet</text>
+<text class="cl" x="255" y="197">Closet</text>
+<text class="rm" x="180" y="370">Bedroom</text>
+<text class="rm" x="625" y="295">Living Room</text>
+<text class="rm" x="925" y="285">Bedroom</text>
+</svg>

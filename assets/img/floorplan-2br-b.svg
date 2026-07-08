@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="566" viewBox="0 0 1050 566" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Pineview two-bedroom, two-bath floor plan (Plan B)">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="13" y="10" width="1027" height="542"/>
+<path class="w" d="M87,160 V227 M258,7 V169 M354,158 V186 M354,249 V556 M453,265 V367 M502,7 V169 M576,8 V169 M576,364 V377 M600,262 V376 M698,7 V557 M8,164 H184 M246,164 H371 M434,164 H618 M349,267 H373 M435,267 H617 M679,267 H702 M8,293 H84 M517,371 H702"/>
+<path class="d" d="M502,207 V242 M678,164 H695 M601,267 H623"/>
+<path class="win" d="M229,547 H320 M229,552 H320 M229,557 H320 M229,545 V559 M320,545 V559"/>
+<path class="win" d="M568,547 H642 M568,552 H642 M568,557 H642 M568,545 V559 M642,545 V559"/>
+<path class="win" d="M773,547 H845 M773,552 H845 M773,557 H845 M773,545 V559 M845,545 V559"/>
+<path class="win" d="M946,547 H1021 M946,552 H1021 M946,557 H1021 M946,545 V559 M1021,545 V559"/>
+<path class="wo" d="M13,10 H1040 V552 H1021 M946,552 H845 M773,552 H642 M568,552 H320 M229,552 H13 V10"/>
+<text class="cl" x="120" y="85">Bathroom</text>
+<text class="cl" x="375" y="80">Bathroom</text>
+<text class="sm" x="635" y="80">Washer/Dryer</text>
+<text class="rm" x="885" y="85">Kitchen</text>
+<text class="sm" x="50" y="225">Closet</text>
+<text class="cl" x="510" y="225">Hallway</text>
+<text class="rm" x="225" y="335">Bedroom</text>
+<text class="sm" x="510" y="325">Closet</text>
+<text class="sm" x="650" y="325">Closet</text>
+<text class="rm" x="520" y="470">Bedroom</text>
+<text class="rm" x="865" y="320">Living Room</text>
+</svg>
