@@ -1,29 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="533" viewBox="0 0 1050 533" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Pineview two-bedroom, two-bath floor plan (Plan A)">
+<svg xmlns="http://www.w3.org/2000/svg" width="2370" height="1278" viewBox="0 0 2370 1278" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Pineview two-bedroom, two-bath floor plan (Plan A)">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="11" y="10" width="1031" height="506"/>
-<path class="w" d="M208,7 V82 M208,141 V242 M405,6 V148 M405,235 V519 M749,6 V148 M749,208 V473 M921,6 V151 M202,78 H226 M285,78 H409 M8,147 H126 M192,147 H311 M744,147 H802 M868,147 H949 M1014,147 H1046 M7,240 H108 M202,240 H324 M391,240 H406 M400,469 H428 M500,469 H662 M733,469 H833 M905,469 H1046"/>
-<path class="d" d="M585,78 H600 M610,78 H624 M630,78 H644 M808,78 H823 M383,240 H402"/>
-<path class="win" d="M1037,472 V516 M1042,472 V516 M1047,472 V516 M1035,472 H1049 M1035,516 H1049"/>
-<path class="wo" d="M11,10 H1042 V472 M1042,516 V516 H1042 M409,516 H373 M301,516 H11 V10"/>
-<text class="cl" x="95" y="95">Bath</text>
-<text class="sm" x="290" y="45">Washer/Dryer</text>
-<text class="cl" x="300" y="113">Hallway</text>
-<text class="rm" x="585" y="70">Kitchen</text>
-<text class="cl" x="835" y="70">Bath</text>
-<text class="sm" x="975" y="45">Closet</text>
-<text class="sm" x="50" y="190">Closet</text>
-<text class="cl" x="255" y="197">Closet</text>
-<text class="rm" x="180" y="370">Bedroom</text>
-<text class="rm" x="625" y="295">Living Room</text>
-<text class="rm" x="925" y="285">Bedroom</text>
+<rect class="fp" x="23" y="19" width="2335" height="1224"/>
+<path class="w" d="M244,10 V24 M244,342 V389 M244,532 V563 M244,1229 V1246 M470,17 V192 M470,336 V570 M470,1229 V1246 M689,10 V24 M689,174 V192 M689,353 V391 M689,532 V571 M914,17 V350 M914,574 V1246 M1692,17 V353 M1692,497 V1124 M2087,17 V361 M2087,1120 V1134 M13,186 H28 M458,186 H506 M651,186 H900 M903,186 H923 M1683,186 H1698 M2072,186 H2090 M2348,186 H2363 M13,352 H281 M428,352 H696 M1683,352 H1811 M1960,352 H2145 M2295,352 H2356 M13,576 H239 M469,576 H727 M876,576 H910 M1683,576 H1698 M2348,576 H2363 M13,1132 H28 M903,1132 H962 M1127,1132 H1487 M1659,1132 H1876 M2044,1132 H2363"/>
+<path class="arc" d="M961,1130 V963 M961,963 A167,167 0 0 1 1128,1130"/>
+<path class="d" d="M240,388 V533 M248,388 V533 M466,191 V337 M474,191 V337 M685,390 V533 M693,390 V533 M1688,352 V498 M1696,352 V498 M505,182 H652 M505,190 H652 M280,348 H429 M280,356 H429 M1810,348 H1961 M1810,356 H1961 M2144,348 H2296 M2144,356 H2296 M726,572 H877 M726,580 H877"/>
+<path class="win" d="M1487,1127 H1659 M1487,1132 H1659 M1487,1137 H1659 M1487,1125 V1139 M1659,1125 V1139"/>
+<path class="win" d="M1876,1127 H2045 M1876,1132 H2045 M1876,1137 H2045 M1876,1125 V1139 M2045,1125 V1139"/>
+<path class="win" d="M672,1238 H843 M672,1243 H843 M672,1248 H843 M672,1236 V1250 M843,1236 V1250"/>
+<path class="wo" d="M23,19 H2358 V1132 M2358,1243 V1243 H2358 M920,1243 H843 M672,1243 H23 V19"/>
+<text class="rm" x="250" y="222">Bath</text>
+<text class="sm" x="643" y="120">Washer/Dryer</text>
+<text class="rm" x="684" y="276">Hallway</text>
+<text class="rm" x="1321" y="182">Kitchen</text>
+<text class="rm" x="1856" y="188">Bath</text>
+<text class="sm" x="2225" y="170">Closet</text>
+<text class="sm" x="125" y="470">Closet</text>
+<text class="sm" x="565" y="488">Closet</text>
+<text class="rm" x="411" y="858">Bedroom</text>
+<text class="rm" x="1404" y="704">Living Room</text>
+<text class="rm" x="1928" y="692">Bedroom</text>
 </svg>

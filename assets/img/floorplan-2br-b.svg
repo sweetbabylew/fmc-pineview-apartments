@@ -1,32 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="566" viewBox="0 0 1050 566" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Pineview two-bedroom, two-bath floor plan (Plan B)">
+<svg xmlns="http://www.w3.org/2000/svg" width="2380" height="1211" viewBox="0 0 2380 1211" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Pineview two-bedroom, two-bath floor plan (Plan B)">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="13" y="10" width="1027" height="542"/>
-<path class="w" d="M87,160 V227 M258,7 V169 M354,158 V186 M354,249 V556 M453,265 V367 M502,7 V169 M576,8 V169 M576,364 V377 M600,262 V376 M698,7 V557 M8,164 H184 M246,164 H371 M434,164 H618 M349,267 H373 M435,267 H617 M679,267 H702 M8,293 H84 M517,371 H702"/>
-<path class="d" d="M502,207 V242 M678,164 H695 M601,267 H623"/>
-<path class="win" d="M229,547 H320 M229,552 H320 M229,557 H320 M229,545 V559 M320,545 V559"/>
-<path class="win" d="M568,547 H642 M568,552 H642 M568,557 H642 M568,545 V559 M642,545 V559"/>
-<path class="win" d="M773,547 H845 M773,552 H845 M773,557 H845 M773,545 V559 M845,545 V559"/>
-<path class="win" d="M946,547 H1021 M946,552 H1021 M946,557 H1021 M946,545 V559 M1021,545 V559"/>
-<path class="wo" d="M13,10 H1040 V552 H1021 M946,552 H845 M773,552 H642 M568,552 H320 M229,552 H13 V10"/>
-<text class="cl" x="120" y="85">Bathroom</text>
-<text class="cl" x="375" y="80">Bathroom</text>
-<text class="sm" x="635" y="80">Washer/Dryer</text>
-<text class="rm" x="885" y="85">Kitchen</text>
-<text class="sm" x="50" y="225">Closet</text>
-<text class="cl" x="510" y="225">Hallway</text>
-<text class="rm" x="225" y="335">Bedroom</text>
-<text class="sm" x="510" y="325">Closet</text>
-<text class="sm" x="650" y="325">Closet</text>
-<text class="rm" x="520" y="470">Bedroom</text>
-<text class="rm" x="865" y="320">Living Room</text>
+<rect class="fp" x="26" y="19" width="2338" height="1165"/>
+<path class="w" d="M194,10 V24 M194,342 V479 M194,1175 V1190 M585,17 V339 M585,342 V357 M805,10 V24 M805,339 V391 M805,532 V1179 M1027,10 V24 M1027,342 V357 M1027,569 V787 M1027,1175 V1190 M1139,16 V350 M1139,563 V577 M1139,1175 V1190 M1307,13 V343 M1307,563 V577 M1307,783 V801 M1353,10 V24 M1353,342 V357 M1353,570 V780 M1353,783 V801 M1584,17 V1179 M23,352 H411 M559,352 H839 M983,352 H1399 M1574,352 H1591 M2351,352 H2366 M17,572 H31 M794,572 H842 M987,572 H1015 M1035,572 H1348 M1350,572 H1368 M1371,572 H1399 M1543,572 H1572 M1574,572 H1592 M2351,572 H2366 M17,631 H189 M794,631 H812 M1018,631 H1032 M1350,631 H1368 M1574,631 H1589 M2351,631 H2366 M17,798 H31 M794,798 H812 M1172,798 H1568 M1574,798 H1591 M2351,798 H2366"/>
+<path class="d" d="M801,390 V535 M809,390 V535 M190,478 V622 M198,478 V622 M410,348 H560 M410,356 H560 M838,348 H984 M838,356 H984 M1398,348 H1575 M1398,356 H1575 M841,568 H988 M841,576 H988 M1398,568 H1544 M1398,576 H1544 M1025,794 H1175 M1025,802 H1175"/>
+<path class="win" d="M514,1179 H727 M514,1184 H727 M514,1189 H727 M514,1177 V1191 M727,1177 V1191"/>
+<path class="win" d="M1287,1179 H1456 M1287,1184 H1456 M1287,1189 H1456 M1287,1177 V1191 M1456,1177 V1191"/>
+<path class="win" d="M1753,1179 H1917 M1753,1184 H1917 M1753,1189 H1917 M1753,1177 V1191 M1917,1177 V1191"/>
+<path class="arc" d="M2315,1184 V1011 M2142,1184 A173,173 0 0 1 2315,1011"/>
+<path class="wo" d="M26,19 H2364 V1184 H2315 M2142,1184 H1917 M1753,1184 H1456 M1287,1184 H727 M514,1184 H26 V19"/>
+<text class="rm" x="286" y="190">Bathroom</text>
+<text class="rm" x="839" y="178">Bathroom</text>
+<text class="sm" x="1482" y="180">Washer/Dryer</text>
+<text class="rm" x="1964" y="190">Kitchen</text>
+<text class="sm" x="115" y="500">Closet</text>
+<text class="rm" x="502" y="715">Bedroom</text>
+<text class="rm" x="1148" y="495">Hallway</text>
+<text class="sm" x="1127" y="703">Closet</text>
+<text class="sm" x="1482" y="703">Closet</text>
+<text class="rm" x="1964" y="703">Living Room</text>
+<text class="rm" x="1204" y="1005">Bedroom</text>
 </svg>
